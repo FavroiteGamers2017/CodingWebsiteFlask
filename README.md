@@ -1,2 +1,0 @@
-# CodingWebsiteFlask
-Flask + Github + Heroku
